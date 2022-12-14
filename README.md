@@ -1,4 +1,4 @@
-My first readme
+
 #  holbertonschool-zero_day :
 
 ## Introduction :nut_and_bolt:
